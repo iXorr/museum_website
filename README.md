@@ -1,2 +1,5 @@
 # museum_website
-My learning practice project. Actually not finished yet.
+
+My college required to make me 
+a web-interface for museum. Website 
+almost doesn't have interactive elements.
